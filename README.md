@@ -2,7 +2,7 @@
 Financial Performance Analysis – SQL Project
 
 
-• Project Overview
+• Project Overview: 
     This project analyzes the financial performance of companies using SQL.
     The goal is to extract business insights from revenue and expense data across multiple years and quarters.
     The focus is not just writing queries, but answering real business questions like:
@@ -11,16 +11,16 @@ Financial Performance Analysis – SQL Project
            Who controls costs better?
 
 
-• Database Structure
+• Database Structure:
     Tables used:
-          companies – company details
-          financials – quarterly revenue & expenses
-          departments – department names
-          department_expenses – department-wise costs
+          companies – company details,
+          financials – quarterly revenue & expenses,
+          departments – department names and
+          department_expenses – department-wise costs.
     Relationships are enforced using foreign keys to maintain data integrity.
 
 
-• Business Questions & Insights
+• Business Questions & Insights:
     
 	 1. Company-wise yearly profit
             Logic:
@@ -61,33 +61,33 @@ Financial Performance Analysis – SQL Project
           		Which company earns more by spending less.
 
 
-• Skills Demonstrated
-    	Advanced SQL
-    	Joins
-    	Aggregations
-    	Window functions
-    	Business logic thinking
-    	Data validation using constraints
+• Skills Demonstrated:
+    	Advanced SQL,
+    	Joins,
+    	Aggregations,
+    	Window functions,
+    	Business logic thinking and
+    	Data validation using constraints.
 
 
-• Final Conclusion
+• Final Conclusion:
     	This project shows how raw financial data can be transformed into:
-	        strategic insights
-        	decision-support metrics
+	        strategic insights and
+        	decision-support metrics.
     	It demonstrates both:
-        	technical SQL skill
-        	financial analysis mindset
+        	technical SQL skill and
+        	financial analysis mindset.
 
 
-• Future Improvements
-    	Add rolling averages
-    	Industry benchmarking
-    	Visualization using Power BI / Excel
+• Future Improvements:
+    	Add rolling averages,
+    	Industry benchmarking and
+    	Visualization using Power BI / Excel.
 
 
-• Why this project matters
+• Why this project matters:
     	This is not a toy project.
     	It directly relates to:
-       		 finance
-        	 audit
-        	 analytics roles
+       		 finance,
+        	 audit and
+        	 analytics roles.
